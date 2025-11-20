@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pragati Manandhar</h1>
 <h3 align="center">I am a passionate and adaptable computer engineer and aspiring data scientist.</h3>
 
-- 👩‍🎓 I am currently pursuing an Erasmus Mundus Joint Master's Degree in Data-Intensive Engineering Software Systems at Abo Akademi University in Turku, Finland. **https://www.master-ediss.eu/**
+- 👩‍🎓 I am currently pursuing an Erasmus Mundus Joint Master's Degree in Data-Intensive Engineering Software Systems. I am in my second year at University of L'Aquila, Italy after completing my first year at Abo Akademi University at Turku, Finland. 
+- **https://www.master-ediss.eu/**
   
-- 🔭 I am currently working as a Research Assistantship at Abo Akademi Univeristy [Developing a Fundamental Understanding of Explainable AI using Texture Analysis](https://www.youtube.com/watch?v=5ZDJ0XVzazI&ab_channel=MasterEDISS)
+- 🔭 I have worked in Data Intensive Engineering Project at Abo Akademi Univeristy [Developing a Fundamental Understanding of Explainable AI using Texture Analysis](https://www.youtube.com/watch?v=5ZDJ0XVzazI&ab_channel=MasterEDISS)
 
-- 👯 I am engaged in groundbreaking research as a Research Intern at Mirka, Finland, focusing on Physics-Informed Machine Learning. [Physics-Informed Machine Learning](https://www.mirka.com/fi/fi/)
+- 👯 I was engaged in groundbreaking research as a Research Intern at Mirka, Finland, focusing on Physics-Informed Machine Learning. [Physics-Informed Machine Learning](https://www.mirka.com/fi/fi/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdhrpragati?tab=repositories](https://github.com/mdhrpragati?tab=repositories)
 
